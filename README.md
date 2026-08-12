@@ -1,16 +1,31 @@
-## Hi there 👋
+<p align="center">
+  <img src="./assets/ELFOUR_GitHub_Profile_1280x640.png" alt="ELFOUR — tecnologia prática para simplificar operações, proteger dados e impulsionar negócios." width="100%">
+</p>
 
-<!--
-**elfour-br/elfour-br** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ELFOUR
 
-Here are some ideas to get you started:
+**Tecnologia prática para simplificar operações, proteger dados e impulsionar negócios.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A ELFOUR desenvolve soluções para tornar a tecnologia empresarial mais segura, organizada e simples de operar. Combinamos experiência técnica, automação e desenvolvimento para transformar necessidades reais em resultados aplicáveis e sustentáveis.
+
+## Áreas de atuação
+
+- **Infraestrutura e suporte técnico** — ambientes mais organizados, confiáveis e documentados.
+- **Segurança e continuidade** — proteção de dados, backups e redução de riscos operacionais.
+- **Automação de processos** — menos tarefas repetitivas e mais eficiência no dia a dia.
+- **Soluções digitais** — desenvolvimento de ferramentas orientadas às necessidades do negócio.
+
+## Nossa forma de trabalhar
+
+Clareza para explicar. Responsabilidade para executar. Inteligência prática para construir soluções que possam começar pequenas e evoluir com a empresa.
+
+## Contato
+
+- Site: [elfour.com.br](https://elfour.com.br)
+- E-mail: [contas@elfour.com.br](mailto:contas@elfour.com.br)
+
+---
+
+<p align="center">
+  <sub>Confiável · Moderna · Inteligente</sub>
+</p>
